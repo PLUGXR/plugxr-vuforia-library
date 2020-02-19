@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/elchanan/Documents/GitHub/sdp/sdp-android/src/main/res/values-sw660dp/positive_sdps.xml -->
+    <eat-comment/>
+    <dimen name="_100sdp">220.00dp</dimen>
+    <dimen name="_10sdp">22.00dp</dimen>
+    <dimen name="_110sdp">242.00dp</dimen>
+    <dimen name="_120sdp">264.00dp</dimen>
+    <dimen name="_12sdp">26.40dp</dimen>
+    <dimen name="_14sdp">30.80dp</dimen>
+    <dimen name="_15sdp">33.00dp</dimen>
+    <dimen name="_16sdp">35.20dp</dimen>
+    <dimen name="_1sdp">2.20dp</dimen>
+    <dimen name="_200sdp">440.00dp</dimen>
+    <dimen name="_20sdp">44.00dp</dimen>
+    <dimen name="_23sdp">50.60dp</dimen>
+    <dimen name="_25sdp">55.00dp</dimen>
+    <dimen name="_300sdp">660.00dp</dimen>
+    <dimen name="_30sdp">66.00dp</dimen>
+    <dimen name="_35sdp">77.00dp</dimen>
+    <dimen name="_40sdp">88.00dp</dimen>
+    <dimen name="_45sdp">99.00dp</dimen>
+    <dimen name="_50sdp">110.00dp</dimen>
+    <dimen name="_5sdp">11.00dp</dimen>
+    <dimen name="_60sdp">132.00dp</dimen>
+    <dimen name="_65sdp">143.00dp</dimen>
+    <dimen name="_70sdp">154.00dp</dimen>
+    <!-- From: file:/C:/Users/elchanan/Documents/GitHub/sdp/sdp-android/src/main/res/values-sw660dp/negative_sdps.xml -->
+    <eat-comment/>
+    <!-- From: file:/C:/Users/elchanan/Documents/GitHub/sdp/sdp-android/src/main/res/values-sw660dp/meta.xml -->
+    <eat-comment/>
+</resources>
