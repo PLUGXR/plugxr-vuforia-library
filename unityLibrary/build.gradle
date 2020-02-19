@@ -30,10 +30,10 @@ android {
     compileSdkVersion 28
     buildToolsVersion '28.0.3'
 
-    compileOptions {
+    /*compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
-    }
+    }*/
 
     defaultConfig {
         minSdkVersion 22
@@ -46,9 +46,9 @@ android {
         consumerProguardFiles 'proguard-unity.txt'
     }
 
-    lintOptions {
+    /*lintOptions {
         abortOnError false
-    }
+    }*/
 
     aaptOptions {
         ignoreAssetsPattern = "!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~"
