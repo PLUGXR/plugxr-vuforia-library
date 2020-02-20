@@ -319,7 +319,7 @@ public class UnityPlayerActivity extends Activity {
 
 
 
-        ImageView imageCapture = (ImageView)dialogexit.findViewById(R.id.imageCapture);
+        final ImageView imageCapture = (ImageView)dialogexit.findViewById(R.id.imageCapture);
 
         MyButton share = (MyButton)dialogexit.findViewById(R.id.share);
 
